@@ -15,9 +15,9 @@ export const owner = {
   name: "Abhishek BK",
   role: "Software Product Engineering Student",
   tagline: "Building AI Products, Full Stack Applications and Developer Tools.",
-  email: "mailto:abhishek@example.com",
-  github: "https://github.com/abhishek-bk",
-  linkedin: "https://www.linkedin.com/in/abhishek-bk",
+  email: "mailto:bnks.abhishek@gmail.com",
+  github: "https://github.com/zei-abhi-test",
+  linkedin: "https://www.linkedin.com/in/abhishek--bk",
   resume: "/resume",
 };
 
@@ -33,15 +33,15 @@ export const projects = [
     description:
       "Contract reminder and workflow automation product built for teams that need reliable follow-ups, cleaner visibility, and fewer missed renewals.",
     technologies: ["Next.js", "TypeScript", "FastAPI", "PostgreSQL", "OpenAI"],
-    github: "https://github.com/abhishek-bk/muraai",
-    demo: "https://muraai.app",
+    github: "https://github.com/zei-abhi-test/Muraai-contract-remainder",
+    demo: "https://muraai-contract-remainder.onrender.com",
   },
   {
     title: "ZEI.shop",
     description:
       "Commerce storefront concept focused on fast product discovery, precise interaction design, and a conversion-minded checkout experience.",
     technologies: ["Next.js", "TailwindCSS", "Stripe", "Prisma", "Vercel"],
-    github: "https://github.com/abhishek-bk/zei-shop",
+    github: "https://github.com/zei-abhi-test/zei-shop",
     demo: "https://zei.shop",
   },
   {
@@ -49,7 +49,7 @@ export const projects = [
     description:
       "A premium personal site designed as a product surface: fast, accessible, responsive, and built with reusable App Router components.",
     technologies: ["Next.js 15", "React 19", "TailwindCSS", "Framer Motion"],
-    github: "https://github.com/abhishek-bk/portfolio",
+    github: "https://github.com/zei-abhi-test/portfolio",
     demo: "https://abhishek-bk.dev",
   },
   {
@@ -57,7 +57,7 @@ export const projects = [
     description:
       "Developer-focused assistant prototype that combines retrieval, structured tool calls, and clean product UX for daily engineering workflows.",
     technologies: ["OpenAI", "TypeScript", "Node.js", "Vector Search", "React"],
-    github: "https://github.com/abhishek-bk/ai-assistant",
+    github: "https://github.com/zei-abhi-test/ai-assistant",
     demo: "https://ai-assistant.abhishek-bk.dev",
   },
 ];
